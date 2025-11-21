@@ -21,7 +21,7 @@
 ## 🧠 Activity
 
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cremitalab&theme=merko)](https://github.com/cremitalab/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=darylbanda&theme=merko)](https://github.com/darylbanda/github-readme-activity-graph)
 
 <div align="center">
   <a href="https://github.com/cremitalab">
